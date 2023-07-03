@@ -5,4 +5,4 @@ https://inst.eecs.berkeley.edu/~cs188/sp22/project1/
 
 The project is written in python 3.6.13
 
-https://inst.eecs.berkeley.edu/~cs188/sp22/project1/
+To test ,run python autograder.py
