@@ -1,5 +1,6 @@
-Λαμπρόπουλος Κωνσταντίνος
+Lampropoulos Konstantinos
 
-Στον φάκελο Logic υπάρχει η υλοποίησή μου του Project 3 του Berkeley
-που αναγράφεται αναλυτικά εδώ : https://inst.eecs.berkeley.edu/~cs188/sp22/project3/
-Η εργασία είναι υλοποιημένη σε python version : Python 3.6.13.
+Here is my implementation of the Project3 Logic which is detailed here :
+https://inst.eecs.berkeley.edu/~cs188/sp22/project3/
+
+The project is written in python 3.6.13
